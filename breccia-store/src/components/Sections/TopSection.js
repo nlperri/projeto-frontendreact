@@ -37,6 +37,7 @@ const TopSection = () => {
 
   return (
     <div className="flex flex-col items-center">
+
       <img
         className="md:h-auto h-56 w-screen lg:h-auto xl:h-auto"
         src={cover}
